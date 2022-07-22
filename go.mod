@@ -155,7 +155,7 @@ require (
 	github.com/alicebob/gopher-json v0.0.0-20200520072559-a9ecdc9d1d3a // indirect
 	github.com/apparentlymart/go-cidr v1.1.0 // indirect
 	github.com/apparentlymart/go-textseg/v13 v13.0.0 // indirect
-	github.com/aquasecurity/defsec v0.68.7-0.20220722124924-f1365d0eb7f8
+	github.com/aquasecurity/defsec v0.68.7-0.20220722143516-4ebb5d0dfe00
 	github.com/asaskevich/govalidator v0.0.0-20200428143746-21a406dcc535 // indirect
 	github.com/aws/aws-sdk-go v1.44.48
 	github.com/beorn7/perks v1.0.1 // indirect
