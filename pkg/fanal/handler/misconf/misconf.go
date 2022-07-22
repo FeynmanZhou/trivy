@@ -273,9 +273,9 @@ func resultsToMisconf(configType string, scannerName string, results scan.Result
 
 		query := fmt.Sprintf("data.%s.%s", result.RegoNamespace(), result.RegoRule())
 
-		ruleID := result.Rule().LegacyID
-		if ruleID == "" {
-			ruleID = result.Rule().AVDID
+		ruleID := result.Rule().AVDID
+		if len(result.Rule().Aliases) > 0 && result.RegoNamespace() != "" {
+			ruleID = result.Rule().Aliases[0]
 		}
 
 		cause := NewCauseWithCode(result)
