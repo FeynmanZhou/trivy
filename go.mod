@@ -81,6 +81,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/athena v1.17.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/cloudfront v1.18.4 // indirect
 	github.com/aws/aws-sdk-go-v2/service/cloudtrail v1.16.4 // indirect
+	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.19.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.15.10 // indirect
 	github.com/aws/aws-sdk-go-v2/service/codebuild v1.19.8 // indirect
 	github.com/aws/aws-sdk-go-v2/service/docdb v1.18.5 // indirect
@@ -134,7 +135,7 @@ require (
 	github.com/Azure/go-autorest/autorest/date v0.3.0 // indirect
 	github.com/Azure/go-autorest/logger v0.2.1 // indirect
 	github.com/Azure/go-autorest/tracing v0.6.0 // indirect
-	github.com/BurntSushi/toml v1.1.0 // indirect
+	github.com/BurntSushi/toml v1.2.0 // indirect
 	github.com/GoogleCloudPlatform/docker-credential-gcr v2.0.5+incompatible
 	github.com/MakeNowJust/heredoc v0.0.0-20170808103936-bb23615498cd // indirect
 	github.com/Masterminds/goutils v1.1.1 // indirect
@@ -155,7 +156,7 @@ require (
 	github.com/alicebob/gopher-json v0.0.0-20200520072559-a9ecdc9d1d3a // indirect
 	github.com/apparentlymart/go-cidr v1.1.0 // indirect
 	github.com/apparentlymart/go-textseg/v13 v13.0.0 // indirect
-	github.com/aquasecurity/defsec v0.68.7-0.20220722143516-4ebb5d0dfe00
+	github.com/aquasecurity/defsec v0.68.11-0.20220728142835-05de403310f5
 	github.com/asaskevich/govalidator v0.0.0-20200428143746-21a406dcc535 // indirect
 	github.com/aws/aws-sdk-go v1.44.48
 	github.com/beorn7/perks v1.0.1 // indirect
@@ -237,7 +238,7 @@ require (
 	github.com/knqyf263/nested v0.0.1
 	github.com/lann/builder v0.0.0-20180802200727-47ae307949d0 // indirect
 	github.com/lann/ps v0.0.0-20150810152359-62de8c46ede0 // indirect
-	github.com/liamg/iamgo v0.0.8 // indirect
+	github.com/liamg/iamgo v0.0.9 // indirect
 	github.com/liamg/jfather v0.0.7 // indirect
 	github.com/lib/pq v1.10.4 // indirect
 	github.com/liggitt/tabwriter v0.0.0-20181228230101-89fcab3d43de // indirect

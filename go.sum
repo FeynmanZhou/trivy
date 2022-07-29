@@ -103,8 +103,8 @@ github.com/Azure/go-autorest/logger v0.2.1/go.mod h1:T9E3cAhj2VqvPOtCYAvby9aBXkZ
 github.com/Azure/go-autorest/tracing v0.6.0 h1:TYi4+3m5t6K48TGI9AUdb+IzbnSxvnvUMfuitfgcfuo=
 github.com/Azure/go-autorest/tracing v0.6.0/go.mod h1:+vhtPC754Xsa23ID7GlGsrdKBpUA79WCAKPPZVC2DeU=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
-github.com/BurntSushi/toml v1.1.0 h1:ksErzDEI1khOiGPgpwuI7x2ebx/uXQNw7xJpn9Eq1+I=
-github.com/BurntSushi/toml v1.1.0/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbicEuybxQ=
+github.com/BurntSushi/toml v1.2.0 h1:Rt8g24XnyGTyglgET/PRUNlrUeu9F5L+7FilkXfZgs0=
+github.com/BurntSushi/toml v1.2.0/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbicEuybxQ=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/CycloneDX/cyclonedx-go v0.6.0 h1:SizWGbZzFTC/O/1yh072XQBMxfvsoWqd//oKCIyzFyE=
 github.com/CycloneDX/cyclonedx-go v0.6.0/go.mod h1:nQCiF4Tvrg5Ieu8qPhYMvzPGMu5I7fANZkrSsJjl5mg=
@@ -204,13 +204,13 @@ github.com/apparentlymart/go-textseg/v13 v13.0.0 h1:Y+KvPE1NYz0xl601PVImeQfFyEy6
 github.com/apparentlymart/go-textseg/v13 v13.0.0/go.mod h1:ZK2fH7c4NqDTLtiYLvIkEghdlcqw7yxLeM89kiTRPUo=
 github.com/aquasecurity/bolt-fixtures v0.0.0-20200903104109-d34e7f983986 h1:2a30xLN2sUZcMXl50hg+PJCIDdJgIvIbVcKqLJ/ZrtM=
 github.com/aquasecurity/bolt-fixtures v0.0.0-20200903104109-d34e7f983986/go.mod h1:NT+jyeCzXk6vXR5MTkdn4z64TgGfE5HMLC8qfj5unl8=
-github.com/aquasecurity/defsec v0.68.7-0.20220722143516-4ebb5d0dfe00 h1:/2VfKGk1bSYPxPh9jxxJQoy0nrDvDUnRZxhzcu6mcy4=
-github.com/aquasecurity/defsec v0.68.7-0.20220722143516-4ebb5d0dfe00/go.mod h1:JDv0Sy/8s8I6/zycZpG7HegjrjRVE1UT/86sn+TdNf4=
+github.com/aquasecurity/defsec v0.68.11-0.20220728142835-05de403310f5 h1:hpO22gAP4W2ctFkFzglNt8B5QFp8oreK/Vr5mh4/2o8=
+github.com/aquasecurity/defsec v0.68.11-0.20220728142835-05de403310f5/go.mod h1:iSe2EWVPjIhnCCzpM0VL+f+WTNy7pKDnZ1BJcl082KU=
 github.com/aquasecurity/go-dep-parser v0.0.0-20220626060741-179d0b167e5f h1:ObiLf3DY/Mr3hfqWHNgQ4vjVo/fFni216otahWzQXIE=
 github.com/aquasecurity/go-dep-parser v0.0.0-20220626060741-179d0b167e5f/go.mod h1:MDQj3aeTQHSRbM1ZOGQVFziHvJtwf7moK+f9gYlUdeE=
 github.com/aquasecurity/go-gem-version v0.0.0-20201115065557-8eed6fe000ce h1:QgBRgJvtEOBtUXilDb1MLi1p1MWoyFDXAu5DEUl5nwM=
 github.com/aquasecurity/go-gem-version v0.0.0-20201115065557-8eed6fe000ce/go.mod h1:HXgVzOPvXhVGLJs4ZKO817idqr/xhwsTcj17CLYY74s=
-github.com/aquasecurity/go-mock-aws v0.0.0-20220711161857-d5b3119f8da7 h1:Q/0D+97/PR8uMnmxWe0Q5CuGZ5JApQGoWLhavXGYaq0=
+github.com/aquasecurity/go-mock-aws v0.0.0-20220726154943-99847deb62b0 h1:tihCUjLWkF0b1SAjAKcFltUs3SpsqGrLtI+Frye0D10=
 github.com/aquasecurity/go-npm-version v0.0.0-20201110091526-0b796d180798 h1:eveqE9ivrt30CJ7dOajOfBavhZ4zPqHcZe/4tKp0alc=
 github.com/aquasecurity/go-npm-version v0.0.0-20201110091526-0b796d180798/go.mod h1:hxbJZtKlO4P8sZ9nztizR6XLoE33O+BkPmuYQ4ACyz0=
 github.com/aquasecurity/go-pep440-version v0.0.0-20210121094942-22b2f8951d46 h1:vmXNl+HDfqqXgr0uY1UgK1GAhps8nbAAtqHNBcgyf+4=
@@ -275,6 +275,8 @@ github.com/aws/aws-sdk-go-v2/service/cloudfront v1.18.4 h1:azoeSOZ1j20DyZ49G2m6y
 github.com/aws/aws-sdk-go-v2/service/cloudfront v1.18.4/go.mod h1:TmvpVdgguHUOzw99+hZlfZWXM/eXvT8wB0Q7Rt7bV0E=
 github.com/aws/aws-sdk-go-v2/service/cloudtrail v1.16.4 h1:2u/QhW/f9KLH0QPDXX+1MvZmSfM5QKsr1gCXCe+AIZI=
 github.com/aws/aws-sdk-go-v2/service/cloudtrail v1.16.4/go.mod h1:/zADqZtp7I9Uxhpc9jUHb8sTr/jpNW6dgHxIbS6J73Y=
+github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.19.0 h1:kCJ5yOeEAHCL3e1Ba5IS2xpVR+bpui7QPD89hBZGGOo=
+github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.19.0/go.mod h1:A9gdtslk61CskUB2nDcY2fuvJ1RNl5bskr1eTJrcUJU=
 github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.15.10 h1:i4iFDBClrtYE/l5diOkDkfDT4inFk3x/CtJ0wLp/13A=
 github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.15.10/go.mod h1:qZ+mnaag/eWCF6gNVIVwjCjXuNbE0BuWJWKWh2TRAJ8=
 github.com/aws/aws-sdk-go-v2/service/codebuild v1.19.8 h1:dyEIbHdZQFyFxc9jFbAkhffG/PsGKLZ66Ti5QIBMls8=
@@ -1098,8 +1100,8 @@ github.com/lann/ps v0.0.0-20150810152359-62de8c46ede0 h1:P6pPBnrTSX3DEVR4fDembhR
 github.com/lann/ps v0.0.0-20150810152359-62de8c46ede0/go.mod h1:vmVJ0l/dxyfGW6FmdpVm2joNMFikkuWg0EoCKLGUMNw=
 github.com/leodido/go-urn v1.2.0 h1:hpXL4XnriNwQ/ABnpepYM/1vCLWNDfUNts8dX3xTG6Y=
 github.com/leodido/go-urn v1.2.0/go.mod h1:+8+nEpDfqqsY+g338gtMEUOtuK+4dEMhiQEgxpxOKII=
-github.com/liamg/iamgo v0.0.8 h1:m9MSJO+mO4mP6tkMihX98OemEDGBQcewXpuOtpA/EBc=
-github.com/liamg/iamgo v0.0.8/go.mod h1:Kk6ZxBF/GQqG9nnaUjIi6jf+WXNpeOTyhwc6gnguaZQ=
+github.com/liamg/iamgo v0.0.9 h1:tADGm3xVotyRJmuKKaH4+zsBn7LOcvgdpuF3WsSKW3c=
+github.com/liamg/iamgo v0.0.9/go.mod h1:Kk6ZxBF/GQqG9nnaUjIi6jf+WXNpeOTyhwc6gnguaZQ=
 github.com/liamg/jfather v0.0.7 h1:Xf78zS263yfT+xr2VSo6+kyAy4ROlCacRqJG7s5jt4k=
 github.com/liamg/jfather v0.0.7/go.mod h1:xXBGiBoiZ6tmHhfy5Jzw8sugzajwYdi6VosIpB3/cPM=
 github.com/liamg/loading v0.0.2 h1:WUZS4SdKaeWgEdKs1kF6MkaEUxIeXTDULHF8nDJ4Yow=
